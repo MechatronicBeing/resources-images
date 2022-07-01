@@ -14,7 +14,7 @@
 - **Main files** : 
   - [symbols.html](symbols.html)
   - [searchindex.html](searchindex.html)
-  - [LICENSE](LICENSE)
+  - [LICENSE](LICENSE.txt)
   - [symbols.gif](symbols.gif)
     - ![symbols.gif](symbols.gif)
 - **For** : MechatronicBeing

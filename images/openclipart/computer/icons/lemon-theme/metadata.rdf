@@ -1,0 +1,132 @@
+
+
+
+  
+
+
+  <metadata>
+    <rdf:RDF 
+     xmlns="http://web.resource.org/cc/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <Work rdf:about="">
+        <dc:title>Lemon SVG theme</dc:title>
+	<dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>lemon_theme_icon</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+           <Agent rdf:about="http://www.openclipart.org">
+             <dc:title>Jose Hevia</dc:title>
+           </Agent>
+         </dc:publisher>
+         <dc:creator>
+           <Agent rdf:about="">
+             <dc:title>Jose Hevia</dc:title>
+           </Agent>
+        </dc:creator>
+         <dc:rights>
+           <Agent rdf:about="">
+             <dc:title>Jose Hevia</dc:title>
+           </Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <license rdf:resource="Public Domain">
+	  <dc:date></dc:date>
+	</license>
+        <dc:language>en</dc:language>
+      </Work>
+
+      <License rdf:about="Public Domain">
+         <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+         <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+         <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </License>
+
+
+    </rdf:RDF>
+  </metadata><metadata>
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Lemon SVG theme</dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>lemon_theme_icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org">
+            <dc:title>Jose Hevia</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jose Hevia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jose Hevia</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+      <dc:title>Lemon SVG theme</dc:title>
+      <dc:description></dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>lemon_theme_icon</rdf:li>
+          <rdf:li>icon</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:publisher>
+        <Agent rdf:about="http://www.openclipart.org">
+          <dc:title>Jose Hevia</dc:title>
+        </Agent>
+      </dc:publisher>
+      <dc:creator>
+        <Agent rdf:about="">
+          <dc:title>Jose Hevia</dc:title>
+        </Agent>
+      </dc:creator>
+      <dc:rights>
+        <Agent rdf:about="">
+          <dc:title>Jose Hevia</dc:title>
+        </Agent>
+      </dc:rights>
+      <dc:date></dc:date>
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <license rdf:resource="Public Domain">
+        <dc:date></dc:date>
+      </license>
+      <dc:language>en</dc:language>
+    </Work>
+    <License rdf:about="Public Domain">
+      <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+      <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+      <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+    </License>
+  </rdf:RDF>
+</metadata>
