@@ -1,0 +1,78 @@
+Open Clip Art Library Release 0.17 Announcement
+===============================================
+
+Sept 1, 2005 UTC - Release 0.17 of the Open Clip Art Library (http://www.openclipart.org) is now available on-line for download as an individual package consisting of over 5000 images submitted by over 500 international artists. The size of this release successfully exceeds the months "OCAL 5K Pledge" of 5000 images thanks to the contributions by new and old contributors.
+
+A quick overview of this release:
+  * Library consists of over 5000 images!
+  * New Clip Art Browser by Greg Steffensen
+  * Document Management System (DMS) now linked into website for testing
+  * New clipart_package CVS module for building packages
+  * Added RPM packages of the release
+
+Due to the success of the "OCAL 5K Pledge," the next goal is for 10K images (10,000 clip art images) by the end of 2005. The development community encourages all types of artists to contribute images to the library this month 
+in support of the theme, Pets - one step towards the end of year OCAL 10K Pledge. 
+
+The Open Clip Art Library. Drawing Together.
+
+Use the following URLs to download the latest release of the Open Clip Art Library:
+  * http://openclipart.org/downloads/0.17/openclipart-0.17-full.tar.bz2
+  * http://openclipart.org/downloads/0.17/openclipart-0.17-full.tar.gz
+  * http://openclipart.org/downloads/0.17/openclipart-0.17-full.zip
+  * http://openclipart.org/downloads/0.17/openclipart-0.17-full-win32.exe
+
+The Open Clip Art Library (http://www.openclipart.org/) aims to create an archive of user contributed clip art that may be freely used. All graphics submitted to the project are placed into the Public Domain according to the Creative Commons Public Domain Declaration.
+
+Open Clip Art Library 2.0 Powered by Aiki Framework Announced
+=============================================================
+
+March 5, 2010 UTC - The Open Clip Art Library team is proud to announce the release of Open Clip Art Library 2.0 (http://openclipart.org). Open Clip Art Library now has over 26,000 original and remixed high quality scalable vector graphic (SVG) files that have been produced by over 1,200 creative artists! March 2010 marks both Open Clip Art's 6th anniversary and 1 year since last spring's launch of version 0.19. The project's launch is so massive, the project jumped its release number to 2.0.
+
+The biggest change to the site is the new thumbnail previews and the easily browsable PNG bitmap downloadable files. The artist and artwork are the focus of the new site. It's easier than ever before for anyone to upload clipart. Also it is important to note that all works submitted to OCAL are free for use by the public, for all purposes, under the Creative Commons Public Domain Dedication. The community does encourage that those using the graphics point back to the original source of the work in some way, but its not a requirement. The project encourages all artwork to spread globally, as is the case with much of the clipart landing onto Wikipedia and other Wikimedia Foundation projects.
+
+A more subtle, but massive change happened behind the scenes. Due to the hard work of Bassel Safadi, Michi, Ronaldo Barbachano, Brad Phillips and others, the website is now driven by the Aiki Framework. Aiki Framework is a new and flexible PHP+MYSQL platform that allows designers and programmers to easily create and work with content management systems from the web. OCAL, via well known Inkscape artist and developer Andy Fitzsimon (http://andyfitzsimon.com/), has provided a fresh new theme, and new logo from Robert Martinez from http://quicktutorials.org to compliment the new site features found in the 2.0 release!
+
+Also, much of the work building the Aiki Framework (http://aikiframework.org) and the Open Clip Art Library 2.0
+(http://openclipart.org) has been done by the Fabricatorz based in San Francisco. The Fabricatorz on this project are Bassel Safadi, Ronaldo Barbachano, Brad Phillips, and Jon Phillips. If more features for Open Clip Art Library or other projects are desired for creation using Aiki Framework, please contact the Fabricatorz at http://fabricatorz.com.
+
+However, it should be noted that with all the massive changes to the Open Clip Art Library, the librarians encourage all to help make the project better by filing bugs (https://bugs.launchpad.net/openclipart), feature requests, helping develop Aiki, and updating the project's wiki (http://openclipart.org/wiki). Some extras are disabled at present in
+favor of providing the most high priority features using Aiki, thumbnails and quick uploading functionality.
+
+The librarians ask for help in celebrating this release of the project by supporting the 2010 Libre Graphics Meeting (LGM2010) from May 27-30 Brussels (http://libregraphicsmeetings.org). This annual event is in it's fifth year and provides a great opportunity for makers and users of Free and Open Source graphics software to meet and collaborate face to face. In anticipation, the Open Clip Art Library is setting a new goal of 50,000 pieces of uploaded clip art by LGM 2010. The project also is refocused on a monthly development cycle, detailed at http://openclipart.org/wiki/roadmap. The Open Clip Art Library always needs new Librarians to help tend to clip art and develop the project's website through the roadmap.
+
+
+Highlights
+
+  * More than 26,000 pieces of clip art.
+  * 14,000 more images uploaded since last year's release!
+  * http://aikiframework.org now driving the website.
+  * Rendered thumbnails added.
+  * New site theme for 2.0 release developed by Andy Fitzsimon
+  * Call for Participation for Libre Graphics Meeting 2010 in Brussels in May 2010.
+  * http://libregraphicsmeeting.org/
+
+
+Downloads
+
+As with past releases, the Open Clip Art Library provides a large package of clipart for download in multiple packaged formats. The Librarians ask for help to the project by alerting websites, Linux distributions and companies, to use the packages actively. We provide tarball, zip files, a Windows installer, and many other formats for consumption.
+  * http://openclipart.org/packages
+
+
+About Open Clip Art Library
+
+Since 2004, the Open Clip Art Library (http://www.openclipart.org/) aims to create an archive of user contributed clip art that may be freely used. All graphics submitted to the project are placed into the Public Domain according to the Creative Commons Public Domain Declaration.
+
+The Open Clip Art Library. Drawing Together.
+
+
+For more information
+  * http://openclipart.org
+  * http://aikiframework.org
+  * http://fabricatorz.com
+
+Press Contact
+
+Jon Phillips
+jon@fabricatorz.com
++1.415.830.3884
+San Francisco + China
